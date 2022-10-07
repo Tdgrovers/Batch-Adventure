@@ -1,4 +1,5 @@
 # Batch-Adventure
 A Batch Game From Tdgrovers
 
-Download Link Is In Releases
+Download Link Is In code
+(above)
