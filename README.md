@@ -1,8 +1,8 @@
 # Batch-Adventure
 A Batch Game From Tdgrovers
 
-Download Link Is In code
+The download Link Is In The Code
 (above)
 
 Android Version Is In Releases
-(Expririmental)
+(Experimental)
